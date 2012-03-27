@@ -1,0 +1,7 @@
+Will have to remember to remove global username and email
+
+http://help.github.com/git-cheat-sheets/
+
+git config --global user.name "..."
+
+git config --global user.email "..."

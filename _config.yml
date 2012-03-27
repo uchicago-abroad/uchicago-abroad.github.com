@@ -1,6 +1,6 @@
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:categories/:year/:month/:day/:title 
+permalink: /:categories/:year/:month/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : UChicago Study Abroad Reviews
-tagline: Since the study abroad office tries to hide this
+tagline: Transparency at the UofC
 author :
   name : John D. Rockefeller
   email : uchicago.abroad@gmail.com
@@ -109,7 +109,7 @@ JB :
   # Set 'provider' to false to turn sharing off globally.
   #
   sharing :
-    provider : false
+    provider : like
     
   # Settings for all other include helpers can be defined by creating 
   # a hash with key named for the given helper. ex:

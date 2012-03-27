@@ -1,46 +1,27 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: It's time to open up study abroad reviews!
+tagline: 
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+## A Need for Transparency
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+Transparency is important for students. Course evaluations are published online, yet the Study Abroad office does not provide a way for students to see past evaluations. 
 
-## Update Author Attributes
+With this in mind, a number of students who studied abroad during the Winter of 2012 decided to create this website. 
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+## What We've Created
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+This site will serve as a central repository where students can share their study abroad evaluations. It will be an open forum for reviews, in order to provide other students with a better understanding of study abroad options.
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+## Submit an Evaluation
 
-    $ rm -rf _posts/core-samples
+Shouldn't this information have been public prior to registration for the study abroad program? We certainly think so. If you agree and are interested in sharing your experience, [please submit](/submit) your evaluation here.
 
-Here's a sample "posts list".
+## Help us Grow
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+Do you know any others who studied abroad? Send them an email!
 
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
+And in the meantime, 
+<a href="http://facebook.com/share.php?u=http://uchicago-abroad.github.com/">share us on facebook</a>.
